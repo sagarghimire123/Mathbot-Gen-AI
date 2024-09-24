@@ -10,4 +10,5 @@ After creating these files we run certain commands in terminal of respective IDE
 
  
  pip install -r requirements.txt-- This will install all the dependencies reuired.
+ 
  streamlit run math.py -- This will run the code in default web browser.
