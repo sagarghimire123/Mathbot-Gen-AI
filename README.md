@@ -9,6 +9,6 @@ In this project first we create a project folder in Pycharm or VS code where we 
 After creating these files we run certain commands in terminal of respective IDE
 
  
- pip install -r requirements.txt-- This will install all the dependencies reuired.
+ pip install -r requirements.txt-- This will install all the dependencies.
  
- streamlit run math.py -- This will run the code in default web browser.
+ streamlit run math.py -- This will run the code in default web browser using streamlit framework.
