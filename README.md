@@ -2,7 +2,7 @@
 This project is about creating a Math bot to solve math problems using Openai, Streamlit, Langchain and Python-dotenv.
 
 In this project first we create a project folder in Pycharm or VS code where we create 3 files 
-1. .env --- (type your own api_keys) 
+1. .env --- (type your own api_keys like this>>     OPENAI_API_KEY="............") 
 2.  requirements.txt
 3.  math.py
 
